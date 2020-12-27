@@ -61,4 +61,9 @@ public class EmployeeEntity {
         return "EmployeeEntity [id=" + id + ", firstName=" + firstName + 
                 ", lastName=" + lastName + ", email=" + email   + "]";
     }
+	
+	public void String(){
+		String str ="";
+		System.out.println("Sonarqube find bugs testing");
+}
 }
